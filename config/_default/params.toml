@@ -25,8 +25,7 @@ day_night = true
 <<<<<<< HEAD
 font = "Rose"
 =======
-font = "Mr Robot"
->>>>>>> parent of 47db6df... Update params.toml
+
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
