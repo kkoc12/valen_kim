@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sojeong Valen Kim
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Clinical Researcher 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Korea University Medical Center
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Mood disorder, emotion dyregulaiton, biomarkers.
 
 interests:
 - Artificial Intelligence
