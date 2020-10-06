@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include Mood disorder, emotion dyregulaiton, biomarkers.
 
 interests:
-- Developing affordable biomarkers of mood disorders
-- Computational methods
-- 
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
